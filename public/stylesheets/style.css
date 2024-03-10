@@ -1,0 +1,57 @@
+body {
+  padding: 0;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background-color: #000;
+}
+
+a {
+  color: #00B7FF;
+}
+.navbar-default .navbar-brand,
+.navbar-default .navbar-brand:hover{
+  color: #fff;
+}
+h1{
+  color: #fff;
+}
+.navbar {
+  border-radius: 0!important;
+}
+.navbar-default {
+  background-color:#514c4c
+}
+.navbar-right{
+  margin-right: 10px;
+}
+
+.poster img{
+  width: 90%;
+  text-align: center;
+  margin: 10px 5% 10px;
+}
+
+#search-form input{
+  margin: 8px 0px;
+  padding: 5px;
+}
+
+.form-group select{
+  min-width: 150px;
+}
+
+.single-movie-title{
+  font-family: 'Metamorphous', cursive;
+  color: #fff;
+}
+
+.overview-header{
+  font-size: 20px;
+  font-weight: bold;
+  color:#fff;
+}
+
+.single-movie-overview{
+  font-family: 'Helvetica', cursive;
+  font-size: 24px;
+  font-weight: normal;
+}
